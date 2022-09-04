@@ -1,0 +1,29 @@
+.gujrat {
+    height: 50vh;
+    width: auto;
+}
+
+.carousel {
+    height: 100vh;
+    width: auto;
+    background: #8891FD;
+    color: white;
+}
+
+.carousel h1 {
+    font-size: 10vh;
+}
+
+@media screen and (max-width: 768px) {
+    .carousel h1 {
+        font-size: 5vh;
+    }
+
+    .gujrat {
+        height: 30vh;
+    }
+}
+
+:root {
+    --swiper-theme-color: white !important;
+}

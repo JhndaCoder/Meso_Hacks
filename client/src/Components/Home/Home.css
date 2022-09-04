@@ -1,0 +1,30 @@
+.navbar img {
+    height: 10vh;
+}
+
+.nav-link {
+    color: white;
+}
+
+.search-btn {
+    background: #8891FD;
+    color: white;
+    font-weight: 700;
+}
+
+.tagline {
+    font-weight: 400;
+}
+
+.homeBg {
+    z-index: -1;
+    position: absolute;
+    height: 100vh;
+    right: 0;
+    top: 0;
+}
+
+.signIn {
+    border: white;
+    color: white;
+}
